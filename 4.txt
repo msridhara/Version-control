@@ -1,1 +1,2 @@
 Support files for first code of featureB enhancement
+Adding some hotfix version files to support this feature
